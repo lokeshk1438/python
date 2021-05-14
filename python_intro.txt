@@ -1,0 +1,62 @@
+python
+	interpreted---runned at line by line and gvs the o/p
+	high level
+	object oriented---mainly uses objects to deal with.
+	interactive
+features 
+	easy to learn--few keywords,simple structure
+	easy to read--cleary defind n if well written then simple to read
+	easy to maintain--source code is easy to maintain
+	broad standard library--has bulk library and also compatible to all platforms
+	interactive mode--asks input in between 
+	portable--can run on any platform
+	extendable--add multiples modules(programs) to it
+	database aware--provides interfaces to all db's
+	gui prog..
+	cgi
+	scalable
+imp structural features
+	built in high level data types: strings, lists, dictionaries
+	if, ifelse, while, for(loops)
+	used as a scripting lang
+	supports automatic garbage collection
+	easily integrated with other languages(c, java, cobra, c++)
+no need to declatre
+need to assign(initialise it before use)
+case sensitive
+
+basic data types:
+
+numbers
+int(signed int's) = C long precision
+long -- unlimited precision
+float --floating point real values
+complex--complex numbers
+	--immutable data types
+
+	--operators
+aithmetic operators
+	//(truncation takes place) Floor Division -The division of operands
+		 where the result is the quotient in which the digits after the decimal point are removed
+	1/2 == 0.5
+	1//2 == 0
+	** Exponent -Performs exponential (power) calculation on operators
+bitwise operators
+	~ -- complement(negation)
+	& -- ANDing
+	| -- ORing
+	^ -- XORing
+	<< --left shift
+	>> right shift
+
+	--functions
+
+
+boolean
+	operators
+strings
+	operators 
+	functions
+
+	
+	

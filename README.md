@@ -1,2 +1,2 @@
 # python
-everything needed to know related to all packages
+everything needed to know related to all packages and related things
