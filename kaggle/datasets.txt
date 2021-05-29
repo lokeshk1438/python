@@ -1,0 +1,59 @@
+generate random data
+	generatedata.com
+
+to split large excel file
+	https://splitmyexcelfile.com/
+
+Need to learn how to pull the deta using API's
+
+data world	--> usefull
+	https://data.world/data
+
+generating random data into database	-->	most usefull
+	https://towardsdatascience.com/generating-random-data-into-a-database-using-python-fd2f7d54024e
+
+for any dataset
+	https://data.world/
+Datasets API
+	https://developer.datafiniti.co/docs/getting-started-with-business-data
+	https://developer.datafiniti.co/docs/business-data-with-python-csv
+
+datasets-links
+fast-food across america
+	https://data.world/datafiniti/fast-food-restaurants-across-america/workspace/project-summary?agentid=datafiniti&datasetid=fast-food-restaurants-across-america
+	https://data.world/datafiniti/fast-food-restaurants-across-america
+
+creating a database from CSV
+	data --> ERD --> p1
+		https://medium.com/swlh/creating-a-database-converting-a-spreadsheet-to-a-relational-database-part-1-2a9a228bf77a
+	loading the data to database
+		https://yjeong5126.medium.com/creating-a-database-converting-a-spreadsheet-to-a-relational-database-part-2-faf4fc83bae5
+
+sample sales data
+	https://www.kaggle.com/kyanyoga/sample-sales-data
+
+datasets for lazy people
+	https://dataset.readthedocs.io/en/latest/
+
+free db generator --> usefull
+	http://filldb.info/
+
+-----
+percona --> blog --> for datasets
+	sample db with test suite
+	https://www.percona.com/blog/2011/02/01/sample-datasets-for-benchmarking-and-testing/
+		https://github.com/datacharmer/test_db
+my SQL 		--> 		https://dev.mysql.com/doc/employee/en/
+imbd dataset 	-->		https://www.imdb.com/interfaces/
+					https://datasets.imdbws.com/
+-----
+statistical datasets
+	https://www.bts.dot.gov/browse-statistical-products-and-data
+
+MySQL Sample DB's
+	https://www3.ntu.edu.sg/home/ehchua/programming/sql/SampleDatabases.html
+practice datasets
+	https://www.superdatascience.com/pages/sql
+	https://www.w3resource.com/sql/sql-table.php
+	https://www.mysqltutorial.org/mysql-sample-database.aspx
+	

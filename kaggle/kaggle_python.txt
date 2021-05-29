@@ -1,0 +1,18 @@
+Kaggle Python Scripts
+Exploration of data
+	https://www.kaggle.com/sakeshchowdary/exploration-of-data-step-by-step
+Importing and Basics
+	https://www.kaggle.com/mmmarchetti/importing-and-basics
+Python Basics
+	https://www.kaggle.com/ialimustufa/python-basics
+	https://www.kaggle.com/ayushsaklani/python-basics
+Data Science for Beginners
+	https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners
+Data Preprocessing Basics
+	https://www.kaggle.com/utkarshm25/data-preprocessing-basics
+Basics of text normalisation
+	https://www.kaggle.com/bsivavenu/basics-of-text-normalization-for-beginners
+Pandas Basics
+	https://www.kaggle.com/utkarshm25/pandas-basics
+Numpy Basics
+	https://www.kaggle.com/utkarshm25/numpy-basics

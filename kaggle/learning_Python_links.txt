@@ -1,0 +1,8 @@
+Data Camp
+	https://www.datacamp.com/community/tutorials/python
+
+pandas .apply()
+	https://towardsdatascience.com/introduction-to-pandas-apply-applymap-and-map-5d3e044e93ff
+
+python modules
+	https://docs.python.org/3/py-modindex.html
