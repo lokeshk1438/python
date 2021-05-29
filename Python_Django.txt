@@ -1,0 +1,54 @@
+ii .		--> opens explorer from CMD
+
+Django -- Web Framework
+official website
+	https://www.djangoproject.com/start/
+	INTRO---->
+	https://docs.djangoproject.com/en/3.2/intro/tutorial01/
+Code for enterprenuers
+	joincfe.com/from-zero
+github
+	https://github.com/codingforentrepreneurs
+
+YT : https://www.youtube.com/watch?v=F5mRW0jo-U4
+On Windows installation of DJango
+	python -V --> version
+	---- for testing ---- may or may not work
+	check the executable path
+		import sys
+		print(sys.executable)
+	creating a virtual env
+		pip install pipenv	--> install pipenv installer
+		python -m venv [foldername] or
+		python -m venv --> creates in current folder
+----------------------------------------------------------------------
+installing log:
+Successfully created virtual environment!
+Virtualenv location: C:\Users\lokes\.virtualenvs\django-rlX_xL2C
+Creating a Pipfile for this project...
+Installing requests...
+Adding requests to Pipfile's [packages]...
+Installation Succeeded
+Pipfile.lock not found, creating...
+Locking [dev-packages] dependencies...
+Locking [packages] dependencies...
+           Building requirements...
+Resolving dependencies...
+Success!
+Updated Pipfile.lock (fe5a22)!
+Installing dependencies from Pipfile.lock (fe5a22)...
+  ================================ 0/0 - 00:00:00
+To activate this project's virtualenv, run pipenv shell.
+Alternatively, run a command inside the virtualenv with pipenv run.
+---------------------------------------------------------------------
+
+PS C:\Users\lokes\OneDrive\Desktop\Dev\django> pip freeze
+certifi==2020.12.5
+chardet==4.0.0
+idna==2.10
+requests==2.25.1
+urllib3==1.26.5
+
+windows installation and other stuff
+	https://www.codingforentrepreneurs.com/projects/setup-python-and-django-windows/-depth-look-python-virtual-environments
+
