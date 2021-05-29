@@ -1,0 +1,3 @@
+ pip install virtualenvwrapper-win pip install virtualenvwrapper-win
+ mkvirtualenv test
+ django-admin startproject [project_name]
