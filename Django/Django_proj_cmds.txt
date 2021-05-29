@@ -1,3 +1,26 @@
- pip install virtualenvwrapper-win pip install virtualenvwrapper-win
- mkvirtualenv test
- django-admin startproject [project_name]
+pip install virtualenvwrapper-win pip install virtualenvwrapper-win
+mkvirtualenv test
+django-admin startproject [project_name]
+
+run server
+	python manage.py runserver
+
+startapp
+	python manage.py startapp genre
+
+create db tables for all the installed tables 
+	python manage.py migrate
+
+after creating dbschema in models.py run below command (creates migration file (0001_initial.py) which actually is the db schema
+	python manage.py makemigrations polls
+
+this will print how the tables were created by the django
+	python manage.py sqlmigrate polls 0001
+
+Now, run migrate again to create those model tables in your database:
+	python manage.py migrate
+
+steps
+Change your models (in models.py).
+Run python manage.py makemigrations to create migrations for those changes
+Run python manage.py migrate to apply those changes to the database.
