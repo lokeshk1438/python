@@ -1,3 +1,6 @@
+ii .	--> opens a directory from command line
+code .	--> opens visual studio
+
 	------------ option 1 using virtualenvwrapper-win --------------
 pip install virtualenvwrapper-win pip install virtualenvwrapper-win
 mkvirtualenv test
@@ -32,7 +35,66 @@ Creating an admin user
 ---------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------
 	------------ option 2 using pipenv --------------
-mkdir <project_name>
-cd <project_name>
-pipenv install django	--> creates the virtual env
+	https://djangoforbeginners.com/initial-setup/
+		-----------> project for generating reports <----------------
+		YouTube : https://www.youtube.com/watch?v=04L0BbAcCpQ
+		freecodecamp : https://www.freecodecamp.org/news/learn-django-3-and-start-creating-websites-with-python/
+		Blog : https://blog.pyplane.com/blog/django-report-app/
+
+mkdir <directory_name>
+
+cd <directory_name>
+
+pipenv install django	--> installs the django package in virtual env
+	pipenv install django=='1.11.*' --> version specific installation
+
 pipenv shell --> internal opens a shell in the virtual env
+
+create a project
+django-admin startproject <proj_name>
+
+create a database for the project
+python manage.py migrate
+	--> creates the sqlite3.db
+
+create superuser
+python manage.py createsuperuser
+	--> give the necessary details
+
+creating an appln
+python manage.py startapp sales
+	--> creates a sales app with all the files
+
+python manage.py startapp reports
+python manage.py startapp products
+python manage.py startapp profiles
+python manage.py startapp customers
+
+python manage.py runserver
+	--> to run the server
+
+pakages installed
+	pip install pillow pandas matplotlib seaborn django-crispy-forms
+
+pillow 				--> The Python Imaging Library adds image processing capabilities to your Python interpreter.
+pandas 				--> for datasets
+matplotlib 			--> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
+seaborn 			--> Seaborn is a library for making statistical graphics in Python. It is built on top of matplotlib and closely integrated with pandas data structures.
+django-crispy-form 	--> for nice looking forms
+xhtml2pdf			--> converting xhtml to pdf
+
+pip freeze --> shows only installed packages in virtual env
+	pip freeze > requirements.txt
+
+we can directly install packages from the requirements.txt file for any virtual env
+		process:
+		mkdir test
+		cd test
+			copy requirements.txt file to test
+		pip install -r requirements.txt
+
+python manage.py makemigrations
+	--> after adding new models
+
+python manage.py migrate
+	--> creates the missing db's
