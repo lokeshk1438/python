@@ -1,3 +1,4 @@
+	------------ option 1 using virtualenvwrapper-win --------------
 pip install virtualenvwrapper-win pip install virtualenvwrapper-win
 mkvirtualenv test
 django-admin startproject [project_name]
@@ -24,3 +25,14 @@ steps
 Change your models (in models.py).
 Run python manage.py makemigrations to create migrations for those changes
 Run python manage.py migrate to apply those changes to the database.
+
+Creating an admin user
+	python manage.py createsuperuser
+		== enter the details ==
+---------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+	------------ option 2 using pipenv --------------
+mkdir <project_name>
+cd <project_name>
+pipenv install django	--> creates the virtual env
+pipenv shell --> internal opens a shell in the virtual env
