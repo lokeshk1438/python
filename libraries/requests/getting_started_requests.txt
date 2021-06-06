@@ -1,0 +1,57 @@
+tutorials-point
+	https://www.tutorialspoint.com/requests/index.htm
+
+API
+	https://www.postman.com/postman/workspace/published-postman-templates/documentation/631643-f695cab7-6878-eb55-7943-ad88e1ccfd65?ctx=documentation
+
+offical-site
+	https://2.python-requests.org/en/master/
+
+Features of Requests
+	Request
+	Response
+	Headers
+	Timeouts
+	Error Handling
+	Cookies
+	Sessions
+	SSL Certificates
+	Authentication
+
+Advantages of using Python Requests Library
+Following are the advantages of using Python Requests Library −
+
+	--> Easy to use and fetch the data from the URL given.
+	--> Requests library can be used to scrape the data from the website.
+	--> Using requests, you can get, post, delete, update the data for the URL given.
+	--> The handling of cookies and session is very easy.
+	--> The security is also taken care of the help of authentication module support.
+
+requests:
+	import request as req
+	
+	getdata = req.get(r'https://jsonplaceholder.typicode.com/users')
+	
+	payload={
+    'id' : 9,
+    'username' : 'Delphine'
+	}
+	
+	getdata = req.get(r'https://jsonplaceholder.typicode.com/users', params=payload)
+
+response
+	Getting Response
+	JSON Response
+	RAW Response
+	Binary Response
+
+	We can get a response in 2 ways using (text) and (.content).
+	
+	getdata.encoding
+	getdata.encoding = 'ISO-8859-1'		--> changing encoding
+	
+	getdata.json()	--> display in json format
+	
+	getdata.raw		--> raw response
+	
+	
