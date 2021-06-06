@@ -1,0 +1,3 @@
+python web-scraping
+https://realpython.com/learning-paths/python-web-scraping/
+https://realpython.com/tutorials/web-scraping/
