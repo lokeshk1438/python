@@ -1,0 +1,14 @@
+python web-scraping
+https://realpython.com/learning-paths/python-web-scraping/
+https://realpython.com/tutorials/web-scraping/
+
+
+https://realpython.com/beautiful-soup-web-scraper-python/#what-is-web-scraping
+
+https://css-tricks.com/dom/
+
+https://realpython.com/python-web-scraping-practical-introduction/#interact-with-websites-in-real-time
+
+https://realpython.com/python-api/
+
+https://realpython.com/python-continuous-integration/
