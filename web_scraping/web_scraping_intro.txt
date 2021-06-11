@@ -12,3 +12,6 @@ https://realpython.com/python-web-scraping-practical-introduction/#interact-with
 https://realpython.com/python-api/
 
 https://realpython.com/python-continuous-integration/
+
+demo sites for web-scraping
+https://webscraper.io/test-sites
