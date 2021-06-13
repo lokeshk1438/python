@@ -1,0 +1,17 @@
+Address,Price,Bedrooms,Inspected
+123 Main St,"99,000",1,No Value
+4981 Anytown Rd,"199,000",4,No Value
+132 Walrus ave,"299,001",2,No Value
+1506 Guido St,"784,049",3,No Value
+491 Python St,"293,923",4,No Value
+938 Zeal Rd,"148,398",2,No Value
+247 Fort St,"299,238",3,No Value
+992 Settled St,"823,049",4,No Value
+123 Main St,"99,000",1,False
+4981 Anytown Rd,"199,000",4,False
+132 Walrus ave,"299,001",2,False
+1506 Guido St,"784,049",3,False
+491 Python St,"293,923",4,False
+938 Zeal Rd,"148,398",2,False
+247 Fort St,"299,238",3,False
+992 Settled St,"823,049",4,False
