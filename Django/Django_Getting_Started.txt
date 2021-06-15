@@ -1,3 +1,11 @@
+	-------> working on windows <------
+	mkdir <folder>
+	cd <folder>
+	python -m pipenv install env
+	pipenv shell
+	--> to open the virtualenv shell
+		 python -m pipenv shell
+
 ii .	--> opens a directory from command line
 code .	--> opens visual studio
 
