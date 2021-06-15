@@ -1,3 +1,9 @@
+use this
+
+#Used headers/agent because the request was timed out and asking for an agent. 
+#Using following code we can fake the agent.
+hdrs = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36'}
+
 python web-scraping
 https://realpython.com/learning-paths/python-web-scraping/
 https://realpython.com/tutorials/web-scraping/
@@ -15,3 +21,7 @@ https://realpython.com/python-continuous-integration/
 
 demo sites for web-scraping
 https://webscraper.io/test-sites
+
+beginner projects
+https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html
+
