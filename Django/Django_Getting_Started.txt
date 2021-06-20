@@ -1,3 +1,11 @@
+	-------> working on windows <------
+	https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment
+	mkdir <folder>
+	cd <folder>
+	python -m venv env
+	.\env\Scripts\activate		-->		to activate the shell
+	
+	
 ii .	--> opens a directory from command line
 code .	--> opens visual studio
 
