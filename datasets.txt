@@ -1,3 +1,9 @@
+corona virus data
+	https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
+
+data is available
+	https://data.humdata.org/
+
 generate random data
 	generatedata.com
 
