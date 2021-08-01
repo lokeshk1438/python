@@ -1,0 +1,16 @@
+Django
+https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html
+
+Live Tutorial with Code
+https://openfolder.sh/django-keeping-logic-out-of-templates-and-views
+
+https://tutorial.djangogirls.org/en/
+https://docs.djangoproject.com/en/2.2/intro/
+https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+
+Videos
+https://www.youtube.com/watch?v=qgGIqRFvFFk&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK
+https://www.youtube.com/watch?v=FNQxxpM1yOs&list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd
+
+
