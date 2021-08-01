@@ -1,0 +1,18 @@
+https://codermohit.com/biggest-collection-of-google-drive-and-mega-up-to-200tb/
+
+Data Science
+Handbook
+https://jakevdp.github.io/PythonDataScienceHandbook/
+
+Jupyter Notebooks
+https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebooks
+
+Data Science Mega Folder
+https://mega.nz/folder/9kxTnLCI#BThv3CtkC27JqcJ4ZWD_cA
+
+Tutorial
+https://realpython.com/tutorials/data-science/
+
+Machine Learning
+https://github.com/AdicherlaVenkataSai/ml-workspace
+https://i.am.ai/roadmap/#disclaimer
