@@ -1,0 +1,19 @@
+hadoop cluster course
+
+https://www.classcentral.com/course/udacity-deploying-a-hadoop-cluster-6274
+
+http://hadoopkickstart.blogspot.com/2014/02/hadoop-kick-start-hadoop-single-click.html
+
+https://analyticsindiamag.com/top-10-free-online-learning-resources-for-hadoop/
+
+https://www.udacity.com/course/deploying-a-hadoop-cluster--ud1000
+
+https://www.wikihow.com/Practice-Hadoop-Online
+
+https://registry.opendata.aws/
+
+https://www.businessnewsdaily.com/10774-free-hadoop-training-online.html
+
+https://www.businessnewsdaily.com/10774-free-hadoop-training-online.html
+
+https://cognitiveclass.ai/
