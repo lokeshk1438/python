@@ -1,3 +1,12 @@
+tutorials
+https://tutorialspoint.dev/
+
+https://www.tutorialspoint.com/python_pandas/index.htm
+https://www.tutorialspoint.com/python_data_science/python_pandas.htm
+https://www.tutorialspoint.com/data-analysis-using-python-pandas
+https://www.tutorialspoint.com/python_data_science/python_data_cleansing.htm
+https://www.tutorialspoint.com/python_data_science/python_data_wrangling.htm
+
 Read In a .csv using read_csv : https://www.usepandas.com/csv/pandas-read-csv
 Add Column With Default Value : https://www.usepandas.com/csv/add-column-default-value-to-csv
 Import .csv From Clipboard : https://www.usepandas.com/csv/import-csv-from-clipboard
