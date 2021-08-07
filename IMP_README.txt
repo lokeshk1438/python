@@ -1,5 +1,7 @@
 Python --- Start it
 
+https://www.pythoncheatsheet.org/#Python-Basics
+
 Learning Path
 https://realpython.com/learning-paths/
 
