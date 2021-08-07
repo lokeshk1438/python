@@ -62,4 +62,9 @@ practice datasets
 	https://www.superdatascience.com/pages/sql
 	https://www.w3resource.com/sql/sql-table.php
 	https://www.mysqltutorial.org/mysql-sample-database.aspx
-	
+
+credit cards
+	https://data.world/datagov-uk/0f41ce56-1ccd-4233-87e1-197680dc1498
+
+credit card transactions
+	https://www.kaggle.com/ealtman2019/credit-card-transactions

@@ -63,3 +63,4 @@ https://miguendes.me/73-examples-to-help-you-master-pythons-f-strings
 
 collection
 https://dev.to/prahladyeri/a-collection-of-python-programming-resources-for-the-beginners-1i8k
+
