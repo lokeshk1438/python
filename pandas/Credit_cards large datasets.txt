@@ -1,0 +1,17 @@
+500m --> credit cards transactions
+https://www.kaggle.com/kartik2112/fraud-detection?select=fraudTrain.csv
+
+
+
+handling with huge datasets
+https://towardsdatascience.com/how-to-handle-large-datasets-in-python-with-pandas-and-dask-34f43a897d55
+-->	resource
+	https://dumps.wikimedia.org/other/clickstream/
+
+click stream
+https://dumps.wikimedia.org/other/clickstream/
+
+handling huge datasets
+https://www.dataquest.io/blog/pandas-big-data
+
+https://towardsdatascience.com/why-and-how-to-use-pandas-with-large-data-9594dda2ea4c
