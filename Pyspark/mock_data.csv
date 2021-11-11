@@ -1,0 +1,7 @@
+ORDER_ID,PRODUCT,QUANTITY_ORDERED,PRICE_EACH,ORDER_DATE,PURCHASE_ADDRESS
+141234,Lightning Charging Cable,,14.95,01/29/19 19:08,"3 Main St, Austin, TX 73301"
+141236,USB-C Charging Cable,,,01/27/19 15:01,"1 Church St, Los Angeles, CA 90001"
+141237,AA Batteries (4-pack),,,,"8 Dogwood St, New York City, NY 10001"
+141239,iPhone,,,,
+141241,AAA Batteries (4-pack),1,2.99,01/27/19 22:60,"4 Maple St, San Francisco, CA 94016"
+141242,,,150,01/27/19 22:61,"10 Lakeview St, Dallas, TX 75001"
