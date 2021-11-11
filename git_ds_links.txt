@@ -1,0 +1,22 @@
+Github repo's
+DataScience --> CheatSheets 
+https://github.com/FavioVazquez/ds-cheatsheets
+https://github.com/tirthajyoti/Data-science-best-resources
+
+DataScientist Roadmap
+https://github.com/MrMimic/data-scientist-roadmap
+
+awesome datascience
+https://github.com/academic/awesome-datascience
+
+datascience book
+https://github.com/lokeshk1438/PythonDataScienceHandbook
+
+whirlwind tour of python
+https://github.com/jakevdp/WhirlwindTourOfPython
+
+ML - YT Courses
+https://github.com/dair-ai/ML-YouTube-Courses
+
+excel
+https://www.excel-easy.com/
