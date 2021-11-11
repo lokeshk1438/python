@@ -1,3 +1,4 @@
+https://towardsdatascience.com/the-most-complete-guide-to-pyspark-dataframes-2702c343b2e8
 https://sparkbyexamples.com/apache-hive-tutorial/
 https://sparkbyexamples.com/pyspark-tutorial/#what-is-pyspark
 https://docs.oracle.com/en-us/iaas/big-data/doc/pyspark-examples-hive.html
