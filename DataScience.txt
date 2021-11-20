@@ -19,3 +19,5 @@ https://i.am.ai/roadmap/#disclaimer
 
 https://github.com/rushter/data-science-blogs
 https://github.com/wesm/pydata-book
+
+https://www.jovian.ai/
