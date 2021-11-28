@@ -1,0 +1,29 @@
+Apache Spark
+	https://lms.simplilearn.com/dashboard
+	https://www.naukri.com/learning/distributed-computing-with-spark-sql-course-courl3075
+
+core-python
+https://app.pluralsight.com/paths/skill/core-python
+	https://app.pluralsight.com/library/courses/getting-started-python-core/table-of-contents
+
+python-libraries
+	https://www.simplilearn.com/learn-python-libraries-free-course-skillup
+
+big data/hadoop
+	https://www.naukri.com/learning/introduction-to-big-data-and-hadoop-course-grlel52
+
+
+intro to data science
+	https://www.simplilearn.com/data-science-free-course-for-beginners-skillup
+	https://www.simplilearn.com/getting-started-data-science-with-python-skillup
+	https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup
+
+fundatmentals of big data
+	https://www.naukri.com/learning/fundamentals-of-big-data-course-courl3640
+
+
+https://app.pluralsight.com/library/courses/spark-2-getting-started/table-of-contents
+https://app.pluralsight.com/library/courses/apache-spark-beginning-data-exploration-analysis/table-of-contents
+https://app.pluralsight.com/library/courses/spark-streaming-stream-processing-getting-started/table-of-contents
+https://app.pluralsight.com/library/courses/apache-spark-structured-streaming-api-processing-data/table-of-contents
+https://app.pluralsight.com/library/courses/apache-spark-sql-fast-data-handling-streaming/table-of-contents
