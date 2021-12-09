@@ -3,7 +3,7 @@ Apache Spark
 	https://www.naukri.com/learning/distributed-computing-with-spark-sql-course-courl3075
 
 core-python
-https://app.pluralsight.com/paths/skill/core-python
+	https://app.pluralsight.com/paths/skill/core-python
 	https://app.pluralsight.com/library/courses/getting-started-python-core/table-of-contents
 
 python-libraries
