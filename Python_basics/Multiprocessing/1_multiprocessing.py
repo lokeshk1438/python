@@ -1,3 +1,6 @@
+# Link for below exercise
+# https://www.youtube.com/watch?v=Lu5LrKh1Zno&list=PLeo1K3hjS3uub3PRhdoCTY8BxMKSW7RjN&index=2
+
 import time
 import multiprocessing
 
