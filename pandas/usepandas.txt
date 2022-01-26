@@ -1,3 +1,5 @@
+https://pythonspeed.com/memory/ --> blog for memory operations
+
 pandas column wise operation
   https://queirozf.com/entries/pandas-dataframe-examples-column-operations
 
