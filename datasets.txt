@@ -1,4 +1,6 @@
 Free Data sets
+	https://archive-beta.ics.uci.edu/
+	https://data.cso.ie/
 	https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4
 
 corona virus data
